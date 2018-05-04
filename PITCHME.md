@@ -1,6 +1,6 @@
 # Kubecon Europe 2018
 
----
++++
 
 ## Keynotes
 
@@ -62,7 +62,7 @@
 
 [Great talk I recommend](https://kccnceu18.sched.com/event/EDv7/keynote-crossing-the-river-by-feeling-the-stones-simon-wardley-researcher-leading-edge-forum)
 
----
++++
 
 ## Technical Session Day 1
 
