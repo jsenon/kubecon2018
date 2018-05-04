@@ -60,7 +60,7 @@
 * Use cases with booking.com who's using K8S for learning model in poduction
 * How you can map your environment, identify opportunities to exploit and learn patterns of change 
 
-[Great talk I recommand](https://kccnceu18.sched.com/event/EDv7/keynote-crossing-the-river-by-feeling-the-stones-simon-wardley-researcher-leading-edge-forum)
+[Great talk I recommend](https://kccnceu18.sched.com/event/EDv7/keynote-crossing-the-river-by-feeling-the-stones-simon-wardley-researcher-leading-edge-forum)
 
 ---
 
