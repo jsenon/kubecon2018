@@ -25,10 +25,14 @@
     * Incompatibility K8S and Linkerd
 * Outage Lessons learn
     * Chaos engineering
-    * Be trasparent; embrace community
+    * Be transparent; embrace community
+
+---
+
+#### Day 1 (Part3)
 
 * Prometheus 2.0
-* Anouncement of gvisor and google stack???
+* Anouncement of gvisor and google stackdriver for k8s
 
 
 ---
@@ -38,6 +42,9 @@
 * Some figures: 54% of most industries are using k8s
 * Security is now part of kubernetes
 * Application compatibility growing (Kafka operator or kubeflow as an example)
+
+#### Day 2 (Part2)
+
 * Feedback from Financial Time, who has migrated from legagcy to k8s and nicroservices
 * Rethinking networking for microservices
 * Use case: CERN and K8S
