@@ -110,7 +110,6 @@
 * Ask questions, ask shadow on slack
 * Release process is around 3 months
 
-
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/3e/KubeConEU2018%20Growing%20in%20Your%20Contributor%20Role.pdf)
 
 ---
