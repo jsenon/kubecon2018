@@ -19,10 +19,16 @@
 ---
 #### Day 1 (Part2)
 
-* Monzo Feedback outage around K8S API change and Linkerd
-* Post mortem :
+* Monzo Feedback outage 
+* Outage Post mortem: 
+    * Bug in gRPC client library affecting etcd
+    * Incompatibility K8S and Linkerd
+* Outage Lessons learn
+    * Chaos engineering
+    * Be trasparent; embrace community
+
 * Prometheus 2.0
-* Annoucment of gvisor and google stack???
+* Anouncement of gvisor and google stack???
 
 
 ---
@@ -32,7 +38,7 @@
 * Some figures: 54% of most industries are using k8s
 * Security is now part of kubernetes
 * Application compatibility growing (Kafka operator or kubeflow as an example)
-* Feedback from ???, who has migrated from legagcy to k8s and nicroservices
+* Feedback from Financial Time, who has migrated from legagcy to k8s and nicroservices
 * Rethinking networking for microservices
 * Use case: CERN and K8S
 
@@ -43,7 +49,9 @@
 * Introduce/Demo kubeflow v0.1 for AI, v0.2 coming soon (summer)
 * Demo around pod security and root privileges
 * Use cases with booking.com who's using K8S for learning model in poduction
-* The new CEO approach
+* How you can map your environment, identify opportunities to exploit and learn patterns of change 
+
+[Great talk I recommand](https://kccnceu18.sched.com/event/EDv7/keynote-crossing-the-river-by-feeling-the-stones-simon-wardley-researcher-leading-edge-forum)
 
 ---
 
@@ -156,7 +164,6 @@
 * 5 to 15 minute to spawn a new instance : Unfortunately you need to pre provision a node 
 
 #### GPU k8s (Part2)
-
 
 * GPU Metrics exists
 * To be followed because will be used by AI and machine learning
