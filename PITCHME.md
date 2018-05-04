@@ -17,6 +17,7 @@
 * Just run my Code (using transparent tools: Faas, Container, Istio, Prometheus Scrap)
 
 ---
+#### Day 1 (Part2)
 
 * Monzo Feedback outage around K8S API change and Linkerd
 * Post mortem :
@@ -94,6 +95,10 @@
 * Istio is an open platform provide uniform way to connect, manage and secure microservices
 * Presentation of some results about performance on AWS, GCE, Azure 
 * Performace could be mesasure through Fortio, but also jmeter
+
+---
+#### Istio and fortio Performance (Part2)
+
 * Metrics is available for each daily release
 * User Centrics: Some lack has been identified and will be fixe or has been fixed
 * Needs industry feedback (as we do) to the SIG perf
@@ -124,6 +129,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/18/2018-05-02%20Continuously%20Deliver%20your%20Kubernetes%20Infrastructure%20-%20KubeCon%202018%20Copenhagen.pdf)
 
+---
 
 ## Technical Session Day 2
 
@@ -214,7 +220,6 @@
 * Before deploy kubeflow run sonoboy to be sure that all your cluster have same configuration
 * Use Heptio Ark to back up and restore your Kubernetes cluster resources and persistent volumes
 
----
 
 
 
