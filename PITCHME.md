@@ -1,10 +1,10 @@
 # Kubecon Europe 2018
 
-+++
+---
 
 ## Keynotes
 
----
++++
 
 #### Day 1
 
@@ -16,7 +16,7 @@
 * Introduce High velocity
 * Just run my Code (using transparent tools: Faas, Container, Istio, Prometheus Scrap)
 
----
++++
 
 #### Day 1 (Part2)
 
@@ -28,14 +28,14 @@
     * Chaos engineering
     * Be transparent; embrace community
 
----
++++
 
 #### Day 1 (Part3)
 
 * Prometheus 2.0
 * Anouncement of gvisor and google stackdriver for k8s
 
----
++++
 
 #### Day 2
 
@@ -43,7 +43,7 @@
 * Security is now part of kubernetes
 * Application compatibility growing (Kafka operator or kubeflow as an example)
 
----
++++
 
 #### Day 2 (Part2)
 
@@ -51,7 +51,7 @@
 * Rethinking networking for microservices
 * Use case: CERN and K8S
 
----
++++
 
 #### Day 3
 
@@ -62,11 +62,11 @@
 
 [Great talk I recommend](https://kccnceu18.sched.com/event/EDv7/keynote-crossing-the-river-by-feeling-the-stones-simon-wardley-researcher-leading-edge-forum)
 
-+++
+---
 
 ## Technical Session Day 1
 
----
++++
 
 #### Istio SIG Configuration
 
@@ -75,7 +75,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/30/Introduction%20to%20Istio%20Configuration%20--%20Kubecon%20EU%202018%20%20%283%29.pdf)
 
----
++++
 
 #### Replace NGINX by Envoy @TurbineLabs
 
@@ -87,7 +87,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/a6/Turbine%20Labs_Move%20to%20Envoy%20Deck_V2.pdf)
 
----
++++
 
 #### Notary and TUF
 
@@ -97,7 +97,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/41/kubernetes-notary-tuf.pdf)
 
----
++++
 
 #### Envoy@Lyft
 
@@ -109,7 +109,7 @@
 
 [For further information presentation is online](https://www.slideshare.net/JoseUlisesNinoRivera/envoy-lyft-developer-productivity)
 
----
++++
 
 #### Istio and fortio Performance
 
@@ -117,7 +117,8 @@
 * Presentation of some results about performance on AWS, GCE, Azure 
 * Performace could be mesasure through Fortio, but also jmeter
 
----
++++
+
 #### Istio and fortio Performance (Part2)
 
 * Metrics is available for each daily release
@@ -126,7 +127,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/62/Istio_Perf_KC_CNC_EU_2018_ppt_v3.pdf)
 
----
++++
 
 #### How to contribute
 
@@ -135,7 +136,7 @@
 * When you have a mentor you can be promote to member and be part of org
 * Issue triage (Bug or Feature request) could be done as member to have global overview of projet 
 
----
++++
 
 #### How to contribute (Part2)
 
@@ -144,7 +145,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/3e/KubeConEU2018%20Growing%20in%20Your%20Contributor%20Role.pdf)
 
----
++++
 
 #### Zalando K8S Deploymkent
 
@@ -159,7 +160,7 @@
 
 ## Technical Session Day 2
 
----
++++
 
 #### Network CNI
 
@@ -169,7 +170,8 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/64/Kubernetes-and-the-CNI-Kubecon-218.pdf)
 
----
++++
+
 
 #### GPU k8s
 
@@ -178,7 +180,7 @@
 * Warn about number of instance GPU on aws
 * 5 to 15 minute to spawn a new instance : Unfortunately you need to pre provision a node 
 
----
++++
 
 #### GPU k8s (Part2)
 
@@ -187,7 +189,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf)
 
----
++++
 
 #### Envoy Internal Deep dive
 
@@ -200,7 +202,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/75/Kubecon_EU_18_Draft.pdf)
 
----
++++
 
 #### Event driven with Brigade
 
@@ -209,7 +211,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/fe/KubeCon%202018%20Brian%20Redmond.pdf)
 
----
++++
 
 #### AWS CNI
 
@@ -223,7 +225,7 @@
 
 ## Technical Session Day 3
 
----
++++
 
 #### Istio User Journey by Weathear.com
 
@@ -233,7 +235,7 @@
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/0e/Istio%20-%20The%20Weather%20Company%27s%20Journey.pdf)
 
----
++++
 
 #### Kubelet to Istio: Security topics
 
@@ -243,7 +245,7 @@
 * SPIFFE to identify application workload, is automatically added with Istio if mTLS is enable
 * Conclusion: encrypt everywhere
 
----
++++
 
 #### Marchine Learning - Kubeflow
 
