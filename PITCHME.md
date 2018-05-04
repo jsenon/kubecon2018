@@ -113,6 +113,9 @@
 * Second step is to have look on issue and try to solve it, some issue with category `TBC` could be study firstly
 * When you have a mentor you can be promote to member and be part of org
 * Issue triage (Bug or Feature request) could be done as member to have global overview of projet 
+
+#### How to contribute (Part2)
+
 * Ask questions, ask shadow on slack
 * Release process is around 3 months
 
@@ -151,6 +154,10 @@
 * Create a daemonset on each node to be aware of GPU and have driver
 * Warn about number of instance GPU on aws
 * 5 to 15 minute to spawn a new instance : Unfortunately you need to pre provision a node 
+
+#### GPU k8s (Part2)
+
+
 * GPU Metrics exists
 * To be followed because will be used by AI and machine learning
 
