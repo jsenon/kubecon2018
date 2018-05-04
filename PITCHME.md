@@ -89,9 +89,13 @@
 
 ---
 
-#### Notary and Portieris
+#### Notary and TUF
 
-* Usage of Webohook in order to check image launch by kubernetes container engine
+* Usage of Webhook admission controller in order to check image launch by kubernetes container engine
+* Introduce portieris that is admission control for enforcing image
+* Ensure that Kubernetes pulls the signed version
+
+[For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/41/kubernetes-notary-tuf.pdf)
 
 ---
 
