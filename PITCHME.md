@@ -245,6 +245,8 @@
 * SPIFFE to identify application workload, is automatically added with Istio if mTLS is enable
 * Conclusion: encrypt everywhere
 
+[For further information presentation is online](https://drive.google.com/file/d/16gHu0lQroIW1c9xAAU_u4V8MJa7AD4XT/view)
+
 +++
 
 #### Marchine Learning - Kubeflow
