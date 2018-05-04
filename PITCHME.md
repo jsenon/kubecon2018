@@ -131,7 +131,7 @@
 #### How to contribute
 
 * Start with Docs
-* Second step is to have look on issue and try to solve it, some issue with category `TBC` could be study firstly
+* Second step is to have look on issue and try to solve it, some issue with category could be study firstly
 * When you have a mentor you can be promote to member and be part of org
 * Issue triage (Bug or Feature request) could be done as member to have global overview of projet 
 
