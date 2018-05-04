@@ -17,6 +17,7 @@
 * Just run my Code (using transparent tools: Faas, Container, Istio, Prometheus Scrap)
 
 ---
+
 #### Day 1 (Part2)
 
 * Monzo Feedback outage 
@@ -34,7 +35,6 @@
 * Prometheus 2.0
 * Anouncement of gvisor and google stackdriver for k8s
 
-
 ---
 
 #### Day 2
@@ -42,6 +42,8 @@
 * Some figures: 54% of most industries are using k8s
 * Security is now part of kubernetes
 * Application compatibility growing (Kafka operator or kubeflow as an example)
+
+---
 
 #### Day 2 (Part2)
 
@@ -129,6 +131,8 @@
 * When you have a mentor you can be promote to member and be part of org
 * Issue triage (Bug or Feature request) could be done as member to have global overview of projet 
 
+---
+
 #### How to contribute (Part2)
 
 * Ask questions, ask shadow on slack
@@ -169,6 +173,8 @@
 * Create a daemonset on each node to be aware of GPU and have driver
 * Warn about number of instance GPU on aws
 * 5 to 15 minute to spawn a new instance : Unfortunately you need to pre provision a node 
+
+---
 
 #### GPU k8s (Part2)
 
