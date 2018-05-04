@@ -6,7 +6,7 @@
 
 ---
 
-### Day 1
+#### Day 1
 
 * Number of attendee: ~4000 (Berlin 2017: ~1200)
 * Growing of CNCF project form 8 in Berlin to 20 in Copenhaguen
@@ -26,7 +26,7 @@
 
 ---
 
-### Day 2
+#### Day 2
 
 * Some figures: 54% of most industries are using k8s
 * Security is now part of kubernetes
@@ -37,7 +37,7 @@
 
 ---
 
-### Day 3
+#### Day 3
 
 * Introduce/Demo kubeflow v0.1 for AI, v0.2 coming soon (summer)
 * Demo around pod security and root privileges
@@ -50,7 +50,7 @@
 
 ---
 
-### Istio SIG Configuration
+#### Istio SIG Configuration
 
 * Introduce better configuration, rollout, and autoscalling: Galley
 * It will use internal and external CRD as many of new tools
@@ -59,7 +59,7 @@
 
 ---
 
-### Replace NGINX by Envoy @TurbineLabs
+#### Replace NGINX by Envoy @TurbineLabs
 
 * User feedback
 * HTTP/2 was not available on nginx when project has been started
@@ -68,15 +68,16 @@
 * Envoy can be deploy has a simple proxy with image `envoy-simple`
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/a6/Turbine%20Labs_Move%20to%20Envoy%20Deck_V2.pdf)
+
 ---
 
-### Notary and Portieris
+#### Notary and Portieris
 
 * Usage of Webohook in order to check image launch by kubernetes container engine
 
 ---
 
-### Envoy@Lyft
+#### Envoy@Lyft
 
 * Network team at lyft want to hide network complexity
 * Lyft is 200 services, 20,000 hosts, 5 million RPS
@@ -88,7 +89,7 @@
 
 ---
 
-### Istio and fortio Performance
+#### Istio and fortio Performance
 
 * Istio is an open platform provide uniform way to connect, manage and secure microservices
 * Presentation of some results about performance on AWS, GCE, Azure 
@@ -101,7 +102,7 @@
 
 ---
 
-### How to contribute
+#### How to contribute
 
 * Start with Docs
 * Second step is to have look on issue and try to solve it, some issue with category `TBC` could be study firstly
@@ -114,7 +115,7 @@
 
 ---
 
-### Zalando K8S Deploymkent
+#### Zalando K8S Deploymkent
 
 * Use git nd branch to deploy new K8S cluster and perform e2e testing
 * No pet clusters
@@ -128,7 +129,7 @@
 
 ---
 
-### Network CNI
+#### Network CNI
 
 * Present how to use and write Network driver (CNI)
 * CNI don't manage multiple network right now
@@ -138,7 +139,7 @@
 
 ---
 
-### GPU k8s
+#### GPU k8s
 
 * Roadmap: Aplha GPU <1.7, Device plugin 1.8 to 1.10, GPU enhancements >2018
 * Create a daemonset on each node to be aware of GPU and have driver
@@ -148,9 +149,10 @@
 * To be followed because will be used by AI and machine learning
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/de/Kubecon%20Talk.pdf)
+
 ---
 
-### Envoy Internal Deep dive
+#### Envoy Internal Deep dive
 
 * Explain how envoy is composed and architectured internally
 * Write with C++
@@ -163,7 +165,7 @@
 
 ---
 
-### Event driven with Brigade
+#### Event driven with Brigade
 
 * Brigade is a lightweight opensource event-driven tool 
 * Accept Javscript expression of pipelinbe and convert it to Kubernetes runtime objects (Jobs)
@@ -172,7 +174,7 @@
 
 ---
 
-### AWS CNI
+#### AWS CNI
 
 * Present new opensource CNI used on AWS EKS
 * Main target is to reduce number of overlay as google do
@@ -186,7 +188,7 @@
 
 ---
 
-### Istio User Journey by Weathear.com
+#### Istio User Journey by Weathear.com
 
 * Weather.com Want Blue green / Circuit breaking / Retry 
 * Visibility
@@ -196,7 +198,7 @@
 
 ---
 
-### Kubelet to Istio: Security topics
+#### Kubelet to Istio: Security topics
 
 * Talking about multiple security topics around k8s
 * Recommandation: Use cert with istio-ca who rotate certificate for your workload
@@ -204,11 +206,15 @@
 * SPIFFE to identify application workload, is automatically added with Istio if mTLS is enable
 * Conclusion: encrypt everywhere
 
-### Marchine Learning - Kubeflow
+---
+
+#### Marchine Learning - Kubeflow
 
 * Heptio Sonoboy is a tools from heptio for k8s configuraiton check and compliance
 * Before deploy kubeflow run sonoboy to be sure that all your cluster have same configuration
 * Use Heptio Ark to back up and restore your Kubernetes cluster resources and persistent volumes
+
+---
 
 
 
