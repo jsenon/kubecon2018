@@ -1,6 +1,6 @@
 # Kubecon Europe 2018
 
-(https://gitpitch.com/jsenon/kubecon2018/master?grs=github&t=moon)
+(https://bit.ly/2Ihwukk)
 
 ---
 
