@@ -255,6 +255,35 @@
 * Before deploy kubeflow run sonoboy to be sure that all your cluster have same configuration
 * Use Heptio Ark to back up and restore your Kubernetes cluster resources and persistent volumes
 
++++
+
+## Others Topics
+
++++
+
+#### ML with Kubeflow on booking.com
+
+* Booking.com: Image tagging
+* Why: Isolation, Elasticity, Flexibility
+* GPU Support (20x to 50x speed imp.)
+* Serving predictions: 
+    * no model in image (retrieve model from hadoop and loaded into memory)
+    * rest api for prediction
+    * stateless app
+* [How Booking.com Uses Kubernetes for Machine Learning](https://www.infoq.com/news/2018/04/booking-kubernetes-machine-learn)
+
++++
+
+#### CloudEvents
+
+* Standardize event with event-driven interoperability
+
+[For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/b1/kubecon-cloudnativecon-serverless-and-eventdriven-future-austencollins.pdf)
+
+#### Recorded Session
+
+* Scheduling and presentation could be find on [kubernetes planning](https://kccnceu18.sched.com)
+* Recorded session could be find on [youtube CNCF page](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA/videos)
 
 
 
