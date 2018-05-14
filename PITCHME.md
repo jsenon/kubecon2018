@@ -1,5 +1,7 @@
 # Kubecon Europe 2018
 
+(https://gitpitch.com/jsenon/kubecon2018/master?grs=github&t=moon)
+
 ---
 
 ## Keynotes
@@ -255,7 +257,7 @@
 * Before deploy kubeflow run sonoboy to be sure that all your cluster have same configuration
 * Use Heptio Ark to back up and restore your Kubernetes cluster resources and persistent volumes
 
-+++
+---
 
 ## Others Topics
 
@@ -279,6 +281,8 @@
 * Standardize event with event-driven interoperability
 
 [For further information presentation is online](https://schd.ws/hosted_files/kccnceu18/b1/kubecon-cloudnativecon-serverless-and-eventdriven-future-austencollins.pdf)
+
+---
 
 #### Recorded Session
 
